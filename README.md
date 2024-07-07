@@ -1,1 +1,1 @@
-# Yashdeep10-Sales-Prediction-Simple-Linear-Regression-
+Sales-Prediction-Simple-Linear-Regression
